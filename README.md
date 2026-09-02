@@ -109,6 +109,8 @@ The individual lab README will explain the scenario, implementation, troubleshoo
 | 06 | [ARM Template Deployment](./Lab-06-ARM-Template-Deployment/) | ✅ Completed |
 | 07 | [Bicep Infrastructure Deployment](./Lab-07-Bicep-Infrastructure-Deployment/) | ✅ Completed |
 | 08 | [Azure App Service](./Lab-08-Azure-App-Service/) | ✅ Completed |
-| 09+ | Additional AZ-104 Topics | 🚧 In Progress |
+| 09 | [App Service Networking & TLS](./Lab-09-App-Service-Networking-TLS/) | ✅ Completed |
+| 10+ | Additional AZ-104 Topics | 🚧 In Progress |
 
 > Select a completed lab above to view its documentation, scripts, screenshots, troubleshooting notes, and verification steps.
+
