@@ -106,6 +106,9 @@ The individual lab README will explain the scenario, implementation, troubleshoo
 | 03 | [Azure Governance & Policy](./03-Azure-Governance/) | ✅ Completed |
 | 04 | [Azure Storage](./04-Azure-Storage/) | ✅ Completed |
 | 05 | [Azure Virtual Machines](./05-Azure-Virtual-Machines/) | ✅ Completed |
-| 06+ | Additional AZ-104 Topics | 🚧 In Progress |
+| 06 | [ARM Template Deployment](./Lab-06-ARM-Template-Deployment/) | ✅ Completed |
+| 07 | [Bicep Infrastructure Deployment](./Lab-07-Bicep-Infrastructure-Deployment/) | ✅ Completed |
+| 08 | [Azure App Service](./Lab-08-Azure-App-Service/) | ✅ Completed |
+| 09+ | Additional AZ-104 Topics | 🚧 In Progress |
 
 > Select a completed lab above to view its documentation, scripts, screenshots, troubleshooting notes, and verification steps.
