@@ -110,7 +110,9 @@ The individual lab README will explain the scenario, implementation, troubleshoo
 | 07 | [Bicep Infrastructure Deployment](./Lab-07-Bicep-Infrastructure-Deployment/) | ✅ Completed |
 | 08 | [Azure App Service](./Lab-08-Azure-App-Service/) | ✅ Completed |
 | 09 | [App Service Networking & TLS](./Lab-09-App-Service-Networking-TLS/) | ✅ Completed |
-| 10+ | Additional AZ-104 Topics | 🚧 In Progress |
+| 10 | [Azure Containers](./Lab-10-Azure-Containers/) | ✅ Completed |
+| 11+ | Additional AZ-104 Topics | 🚧 In Progress |
 
 > Select a completed lab above to view its documentation, scripts, screenshots, troubleshooting notes, and verification steps.
+
 
