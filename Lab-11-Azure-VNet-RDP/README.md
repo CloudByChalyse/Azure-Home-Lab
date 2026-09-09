@@ -428,10 +428,13 @@ This prevented unnecessary Azure consumption while preserving the networking des
 ```text
 Lab-11-Azure-VNet-RDP/
 ├── README.md
+├── scripts/
+│   └── Lab11-RDP-Troubleshooting.ps1
 └── screenshots/
     ├── 01-vm-network-overview.png
     ├── 02-rdp-nsg-restricted-source.png
     ├── 03-ip-flow-verify-allowed.png
     └── 04-rdp-success.png
 ```
+
 
