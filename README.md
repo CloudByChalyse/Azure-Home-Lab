@@ -112,9 +112,11 @@ The individual lab README will explain the scenario, implementation, troubleshoo
 | 09 | [App Service Networking & TLS](./Lab-09-App-Service-Networking-TLS/) | ✅ Completed |
 | 10 | [Azure Containers](./Lab-10-Azure-Containers/) | ✅ Completed |
 | 11 | [Azure VNet, Subnets & RDP](./Lab-11-Azure-VNet-RDP/) | ✅ Completed |
-| 12+ | Additional AZ-104 Topics | 🚧 In Progress |
+| 12 | [VNet Peering & VNet-to-VNet VPN](./Lab-12-VNet-Peering-VNet-to-VNet-VPN/) | ✅ Completed |
+| 13+ | Additional AZ-104 Topics | 🚧 In Progress |
 
 > Select a completed lab above to view its documentation, scripts, screenshots, troubleshooting notes, and verification steps.
+
 
 
 
