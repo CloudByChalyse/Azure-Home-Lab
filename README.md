@@ -113,9 +113,11 @@ The individual lab README will explain the scenario, implementation, troubleshoo
 | 10 | [Azure Containers](./Lab-10-Azure-Containers/) | ✅ Completed |
 | 11 | [Azure VNet, Subnets & RDP](./Lab-11-Azure-VNet-RDP/) | ✅ Completed |
 | 12 | [VNet Peering & VNet-to-VNet VPN](./Lab-12-VNet-Peering-VNet-to-VNet-VPN/) | ✅ Completed |
-| 13+ | Additional AZ-104 Topics | 🚧 In Progress |
+| 13 | [Azure DNS: Public & Private Name Resolution](./Lab-13-Azure-DNS/) | ✅ Completed |
+| 14+ | Additional AZ-104 Topics | 🚧 In Progress |
 
 > Select a completed lab above to view its documentation, scripts, screenshots, troubleshooting notes, and verification steps.
+
 
 
 
