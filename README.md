@@ -115,9 +115,11 @@ The individual lab README will explain the scenario, implementation, troubleshoo
 | 12 | [VNet Peering & VNet-to-VNet VPN](./Lab-12-VNet-Peering-VNet-to-VNet-VPN/) | ✅ Completed |
 | 13 | [Azure DNS: Public & Private Name Resolution](./Lab-13-Azure-DNS/) | ✅ Completed |
 | 14 | [NSGs, ASGs & Network Troubleshooting](./Lab-14-NSG-ASG-Network-Troubleshooting/) | ✅ Completed |
-| 15+ | Additional AZ-104 Topics | 🚧 In Progress |
+| 15 | [Azure Load Balancer & Application Gateway](./Lab-15-Load-Balancer-Application-Gateway/) | ✅ Completed |
+| 16+ | Additional AZ-104 Topics | 🚧 In Progress |
 
 > Select a completed lab above to view its documentation, scripts, screenshots, troubleshooting notes, and verification steps.
+
 
 
 
