@@ -1,0 +1,35 @@
+// Lab 17 – Azure Monitor, VM Insights & Log Analytics
+// Dishmon Technologies
+// KQL queries used to verify and analyze guest telemetry from vm-mon17.
+
+// ------------------------------------------------------------
+// 1. Verify guest telemetry is reaching Log Analytics
+// ------------------------------------------------------------
+InsightsMetrics
+| where TimeGenerated > ago(1h)
+| where Computer =~ "vm-mon17"
+| take 20;
+
+
+// ------------------------------------------------------------
+// 2. CPU utilization over time
+// ------------------------------------------------------------
+InsightsMetrics
+| where TimeGenerated > ago(1h)
+| where Origin == "vm.azm.ms"
+| where Namespace == "Processor"
+| where Name == "UtilizationPercentage"
+| where Computer =~ "vm-mon17"
+| summarize AverageCPU = avg(Val) by bin(TimeGenerated, 5m), Computer
+| render timechart;
+
+
+// ------------------------------------------------------------
+// 3. Memory guest telemetry
+// ------------------------------------------------------------
+InsightsMetrics
+| where TimeGenerated > ago(1h)
+| where Computer =~ "vm-mon17"
+| where Namespace == "Memory"
+| project TimeGenerated, Computer, Name, Val
+| order by TimeGenerated desc;
