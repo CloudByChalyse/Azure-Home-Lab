@@ -101,6 +101,7 @@ The individual lab README will explain the scenario, implementation, troubleshoo
 
 | Module | Lab / Focus Area | Status |
 |---|---|---|
+| 00 | [Azure PowerShell, Azure CLI & Subscription Context](./00-Azure-PowerShell-CLI-Subscription-Context/) | ✅ Completed |
 | 01 | [Microsoft Entra ID](./01-Entra-ID/) | ✅ Completed |
 | 02 | [Azure RBAC](./02-RBAC/) | ✅ Completed |
 | 03 | [Azure Governance & Policy](./03-Azure-Governance/) | ✅ Completed |
@@ -122,6 +123,7 @@ The individual lab README will explain the scenario, implementation, troubleshoo
 | 19+ | Additional AZ-104 Topics | 🚧 In Progress |
 
 > Select a completed lab above to view its documentation, scripts, screenshots, troubleshooting notes, and verification steps.
+
 
 
 
