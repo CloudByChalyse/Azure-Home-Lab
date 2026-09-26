@@ -170,4 +170,11 @@ By completing the workflow, I gained hands-on experience managing internal and e
 
 ---
 
+## Related Reconstructed Lab
+
+- [Microsoft Entra ID Tenants & Custom Domains](./reconstructed-tenants-custom-domains/) — Tenant relationships, tenant-creation restrictions, custom-domain TXT verification, troubleshooting, and verification.
+
+---
+
 [← Back to Azure Home Lab Portfolio](../README.md)
+
