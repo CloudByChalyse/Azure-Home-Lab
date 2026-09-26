@@ -206,4 +206,10 @@ By completing the workflow, I gained hands-on experience with resource locks, ta
 
 ---
 
+## Related Reconstructed Lab
+
+- [Azure Governance, Policy, Locks & Cost Management](./reconstructed-policy-locks-cost-management/) — Required-tag policy enforcement, policy troubleshooting, CostCenter tagging, delete locks, Cost Analysis, subscriptions, and management-group governance.
+
+---
+
 [← Back to Azure Home Lab Portfolio](../README.md)
