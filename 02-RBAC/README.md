@@ -179,4 +179,10 @@ By completing the workflow, I gained hands-on experience assigning permissions w
 
 ---
 
+## Related Reconstructed Lab
+
+- [Azure RBAC, Scope & Storage Authorization](./reconstructed-scope-storage-authorization/) — RBAC inheritance, management-plane vs. data-plane access, Storage Blob Data Reader/Contributor, custom roles, and least-privilege troubleshooting.
+
+---
+
 [← Back to Azure Home Lab Portfolio](../README.md)
