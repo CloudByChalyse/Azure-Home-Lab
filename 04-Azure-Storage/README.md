@@ -258,4 +258,10 @@ By completing the workflow, I gained hands-on experience creating and validating
 
 ---
 
+## Related Reconstructed Lab
+
+- [Azure Storage Security & Data Protection](./reconstructed-security-data-protection/) — ZRS, access tiers, soft delete, blob versioning, customer-managed keys, SAS, private endpoints, network restrictions, and Microsoft Entra storage authorization.
+
+---
+
 [← Back to Azure Home Lab Portfolio](../README.md)
